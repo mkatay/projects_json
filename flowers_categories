@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nev": "Virágok"
+  },
+  {
+    "id": 2,
+    "nev": "Gyümölcsök"
+  },
+  {
+    "id": 3,
+    "nev": "Zöldségek"
+  },
+  {
+    "id": 4,
+    "nev": "Fűszernövény"
+  }
+]
