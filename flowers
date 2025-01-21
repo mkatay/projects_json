@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nev": "Dália",
+    "leiras": "A dáliák gumós, fagyérzékeny évelők. Tápanyagdús talajban virágoznak a legszebben. Vízigényük közepes, virágzásuk idején rendszeres vízellátást igényelnek. Virágzási idejük júliustól októberig tart. Kiválóan alkalmasak vágott virágnak.",
+    "keszlet": 10,
+    "ar": 356,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373736/fotok/dalia_h4rdyr.jpg",
+    "kategoria_nev": "Virágok"
+  },
+  {
+    "id": 2,
+    "nev": "Százszorszép",
+    "leiras": "A százszorszép, vadszázszorszép vagy pipitér (Bellis perennis) az őszirózsafélék (Asteraceae) családjába, az őszirózsaformák (Asteroideae) alcsaládjába tartozó növényfaj. Csaknem egész Európában elterjedt. Észak-Amerikába behurcolták, ott inváziós faj. ",
+    "keszlet": 20,
+    "ar": 300,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373739/fotok/szazszorszep_k6ihhc.jpg",
+    "kategoria_nev": "Virágok"
+  },
+  {
+    "id": 3,
+    "nev": "Levendula",
+    "leiras": "A levendula (Lavandula) az árvacsalánfélék családjába tartozó növénynemzetség 39 fajjal és több hibrid fajjal. ",
+    "keszlet": 50,
+    "ar": 400,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373735/fotok/levendula_jegcfg.jpg",
+    "kategoria_nev": "Virágok"
+  },
+  {
+    "id": 4,
+    "nev": "Petúnia",
+    "leiras": "A petúnia (Petunia) a burgonyafélék (Solanaceae) családjába tartozó növénynemzetség. Dél-amerikai eredetű, trombitaforma virágú fajok tartoznak ide, melyeket dísznövényként az egész világon termesztenek. A legtöbb kerti petúnia hibrid (Petunia x hybrida). A petúnia név a francia nyelvből ered, ahová pedig a tupi-guaraní nyelvek 'petun' = dohány szó átvételével került. ",
+    "keszlet": 20,
+    "ar": 360,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373738/fotok/petunia_pnoyll.jpg",
+    "kategoria_nev": "Virágok"
+  },
+  {
+    "id": 10,
+    "nev": "Szamóca",
+    "leiras": "Az epret nagy földrajzi alkalmazkodóképessége és elterjedése miatt szinte a világ minden országában termesztik. Évelő, tőrózsát fejlesztő növény, az indanövényről úgy nevezett frigó palántákkal szaporított egyedek járulékos gyökérrendszert fejlesztenek, melyek sekélyen helyezkednek el a talajban. A gyökérzetet a levélzettel egy rövid gyökértörzs köti össze. Ebből fejlődnek ki a levelek, az indák, a virágok; ezen kívül ez a szerve tartalékolja a tápanyagokat, amely elősegíti az áttelelést.",
+    "keszlet": 200,
+    "ar": 500,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373739/fotok/szamoca_nr8v59.jpg",
+    "kategoria_nev": "Gyümölcsök"
+  },
+  {
+    "id": 11,
+    "nev": "Málna",
+    "leiras": "Gyümölcse miatt kedvelt kerti növény. A magas vitamintartalma miatt egészséges gyümölcsöt gyakran nyersen fogyasztják, illetve lekvárként, kompótként, zseléként vagy szörpként kerül a konyhákban felhasználásra.",
+    "keszlet": 320,
+    "ar": 400,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373740/fotok/malna_itr6ix.jpg",
+    "kategoria_nev": "Gyümölcsök"
+  },
+  {
+    "id": 7,
+    "nev": "Paradicsom",
+    "leiras": "Trópusi hazájában évelő kúszónövény, mérsékelt éghajlaton egyévesként termesztik, vannak egész éves kultúrák is. Fajtától függően 40-260 centiméter magasra nő, átlagban 150 centiméter magas. Termése 1-100 dekagrammig változó nagyságú lehet. ",
+    "keszlet": 600,
+    "ar": 500,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373738/fotok/paradicsom_wiftjz.jpg",
+    "kategoria_nev": "Zöldségek"
+  },
+  {
+    "id": 8,
+    "nev": "Sárgarépa",
+    "leiras": "A sárgarépa (Daucus carota subsp. sativus) fontos zöldségnövény, jelentős vitaminforrás, régóta ismerjük és termesztjük. ",
+    "keszlet": 250,
+    "ar": 315,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373739/fotok/sargarepa_hawshc.jpg",
+    "kategoria_nev": "Zöldségek"
+  },
+  {
+    "id": 9,
+    "nev": "Karalábé",
+    "leiras": "A káposztafélék családjába tartozó zöldségnövény. Magas B1-, B2-, B6- és C-vitamin (63 mg/100 g) tartalma miatt ajánlatos a nyers fogyasztása. Tartalmaz még kalciumot, káliumot, magnéziumot, vasat, valamint meszet és foszfort is. Nem savanyítható, konzerválásra is alkalmatlan. Viszont egész évben termeszthető, és már tyúktojás nagyság elérésekor szedhető. A karalábét magas vitamintartalma miatt az alternatív gyógyászat hívei méregtelenítő hatásúnak tartják, de mindenképpen egészséges. ",
+    "keszlet": 180,
+    "ar": 280,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373737/fotok/karalabe_vtand4.jpg",
+    "kategoria_nev": "Zöldségek"
+  },
+  {
+    "id": 12,
+    "nev": "Chili paprika",
+    "leiras": "Indiában, Afrikában és Mexikóban nagy hagyománya van fogyasztásának. Ezeken a helyeken elsősorban emésztést serkentő hatása miatt kedvelik, és ma már kutatások bizonyítják, hogy nem alaptalanul, mivel fokozza a nyál és a gyomornedvek elválasztását, melyek az étel lebontását teszik lehetővé. Akik szeretik a csípős, fűszeres ételeket, ugyanakkor fogyókúrázni szeretnének, kihasználhatják átmeneti anyagcsere-gyorsító tulajdonságát.",
+    "keszlet": 100,
+    "ar": 360,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373735/fotok/chili-paprika_om2jkv.jpg",
+    "kategoria_nev": "Zöldségek"
+  },
+  {
+    "id": 5,
+    "nev": "Bazsalikom",
+    "leiras": "A bazsalikom - jelentése királyian illatozó) dísz-, fűszer-, és gyógynövény. Népies elnevezései: bazsalikusfű, buszujok, kerti bazsalikum, királyfű, német bors. \r\nEgyéves növény. Karószerű főgyökere számos oldalgyökérre ágazik. Nem hatol mélyre, de dús elágazódásával viszonylag nagy talajréteget sző át. Mereven felálló. 40–60 cm hosszú szára a gyökérnyaktól sok oldalhajtásra ágazik el. ",
+    "keszlet": 100,
+    "ar": 250,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373734/fotok/bazsalikom_blbjjj.jpg",
+    "kategoria_nev": "Fűszernövény"
+  },
+  {
+    "id": 6,
+    "nev": "Rozmaring",
+    "leiras": "Örökzöld félcserje. Virágai végállásúak, ajakosak, erősen kiemelkedő fellevelekkel. Színei a világoskéktől a liláig, sokféle árnyalatban megtalálhatóak. Levelei sötétzöldek, egyenesek, tűformájúak, szélük visszahajlik, fonákjuk szürkésen szőrözött. A növény minden része aromás illatú.",
+    "keszlet": 150,
+    "ar": 310,
+    "kepUrl": "https://res.cloudinary.com/myblog2024/image/upload/v1737373737/fotok/rozmaring_shordk.jpg",
+    "kategoria_nev": "Fűszernövény"
+  }
+]
